@@ -1,0 +1,15 @@
+C:\Users\Student-8\Documents\Dev\7-23-challenge\bin\Debug\net8.0\7-23-challenge.exe
+C:\Users\Student-8\Documents\Dev\7-23-challenge\bin\Debug\net8.0\7-23-challenge.deps.json
+C:\Users\Student-8\Documents\Dev\7-23-challenge\bin\Debug\net8.0\7-23-challenge.runtimeconfig.json
+C:\Users\Student-8\Documents\Dev\7-23-challenge\bin\Debug\net8.0\7-23-challenge.dll
+C:\Users\Student-8\Documents\Dev\7-23-challenge\bin\Debug\net8.0\7-23-challenge.pdb
+C:\Users\Student-8\Documents\Dev\7-23-challenge\obj\Debug\net8.0\7-23-challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student-8\Documents\Dev\7-23-challenge\obj\Debug\net8.0\7-23-challenge.AssemblyInfoInputs.cache
+C:\Users\Student-8\Documents\Dev\7-23-challenge\obj\Debug\net8.0\7-23-challenge.AssemblyInfo.cs
+C:\Users\Student-8\Documents\Dev\7-23-challenge\obj\Debug\net8.0\7-23-challenge.csproj.CoreCompileInputs.cache
+C:\Users\Student-8\Documents\Dev\7-23-challenge\obj\Debug\net8.0\7-23-challenge.sourcelink.json
+C:\Users\Student-8\Documents\Dev\7-23-challenge\obj\Debug\net8.0\7-23-challenge.dll
+C:\Users\Student-8\Documents\Dev\7-23-challenge\obj\Debug\net8.0\refint\7-23-challenge.dll
+C:\Users\Student-8\Documents\Dev\7-23-challenge\obj\Debug\net8.0\7-23-challenge.pdb
+C:\Users\Student-8\Documents\Dev\7-23-challenge\obj\Debug\net8.0\7-23-challenge.genruntimeconfig.cache
+C:\Users\Student-8\Documents\Dev\7-23-challenge\obj\Debug\net8.0\ref\7-23-challenge.dll
